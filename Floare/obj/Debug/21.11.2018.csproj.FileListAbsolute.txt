@@ -1,0 +1,24 @@
+D:\Aia3\Coros Maria\21.11.2018\obj\Debug\ResolveAssemblyReference.cache
+D:\Aia3\Coros Maria\21.11.2018\obj\Debug\_21._11._2018.Form1.resources
+D:\Aia3\Coros Maria\21.11.2018\obj\Debug\_21._11._2018.Properties.Resources.resources
+D:\Aia3\Coros Maria\21.11.2018\obj\Debug\21.11.2018.csproj.GenerateResource.Cache
+D:\Aia3\Coros Maria\21.11.2018\bin\Debug\21.11.2018.exe
+D:\Aia3\Coros Maria\21.11.2018\bin\Debug\21.11.2018.pdb
+D:\Aia3\Coros Maria\21.11.2018\obj\Debug\21.11.2018.exe
+D:\Aia3\Coros Maria\21.11.2018\obj\Debug\21.11.2018.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\21.11.2018\obj\Debug\21.11.2018.exe
+D:\MARIA\Programare\Aplicatii\Coros Maria\21.11.2018\obj\Debug\21.11.2018.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\21.11.2018\bin\Debug\21.11.2018.exe
+D:\MARIA\Programare\Aplicatii\Coros Maria\21.11.2018\bin\Debug\21.11.2018.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\21.11.2018\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Coros Maria\21.11.2018\obj\Debug\_21._11._2018.Form1.resources
+D:\MARIA\Programare\Aplicatii\Coros Maria\21.11.2018\obj\Debug\_21._11._2018.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Coros Maria\21.11.2018\obj\Debug\21.11.2018.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Floare\obj\Debug\21.11.2018.exe
+D:\MARIA\Programare\Aplicatii\Floare\obj\Debug\21.11.2018.pdb
+D:\MARIA\Programare\Aplicatii\Floare\bin\Debug\21.11.2018.exe
+D:\MARIA\Programare\Aplicatii\Floare\bin\Debug\21.11.2018.pdb
+D:\MARIA\Programare\Aplicatii\Floare\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Floare\obj\Debug\_21._11._2018.Form1.resources
+D:\MARIA\Programare\Aplicatii\Floare\obj\Debug\_21._11._2018.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Floare\obj\Debug\21.11.2018.csproj.GenerateResource.Cache

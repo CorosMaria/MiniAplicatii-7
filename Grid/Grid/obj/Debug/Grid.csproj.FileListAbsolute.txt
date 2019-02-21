@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Grid\Grid\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Grid\Grid\obj\Debug\Grid.Form1.resources
+D:\MARIA\Programare\Aplicatii\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Grid\Grid\bin\Debug\Grid.exe
+D:\MARIA\Programare\Aplicatii\Grid\Grid\bin\Debug\Grid.pdb
+D:\MARIA\Programare\Aplicatii\Grid\Grid\obj\Debug\Grid.exe
+D:\MARIA\Programare\Aplicatii\Grid\Grid\obj\Debug\Grid.pdb

@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Functia sinus\Functia sinus\bin\Debug\Functia sinus.exe
+D:\MARIA\Programare\Aplicatii\Functia sinus\Functia sinus\bin\Debug\Functia sinus.pdb
+D:\MARIA\Programare\Aplicatii\Functia sinus\Functia sinus\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Functia sinus\Functia sinus\obj\Debug\Functia_sinus.Form1.resources
+D:\MARIA\Programare\Aplicatii\Functia sinus\Functia sinus\obj\Debug\Functia_sinus.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Functia sinus\Functia sinus\obj\Debug\Functia sinus.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Functia sinus\Functia sinus\obj\Debug\Functia sinus.exe
+D:\MARIA\Programare\Aplicatii\Functia sinus\Functia sinus\obj\Debug\Functia sinus.pdb
